@@ -51,12 +51,12 @@ Hopefully I wholeheartedly think that low cost solutions that can provide contac
 # Solution
 Our solution is a smart platform with patient centric risk-assessing IoT devices that will keep track of several variables such as temperature, steps, and heart rate, among others through a web application.
 
-<img src="">
+<img src="https://hackster.imgix.net/uploads/attachments/1184939/diagramadokturbomamador_YZzPO84OGq.png?auto=compress%2Cformat&w=740&h=555&fit=max">
 
 It includes a wearable band that we integrated with a set of sensors that can be embedded easily into clothing. It can be worn on the wrist, chest or as an armband.
 
-<img src="">
-<img src="">
+<img src="https://hackster.imgix.net/uploads/attachments/1184976/image_6QsZ4DCMWF.png?auto=compress%2Cformat&w=740&h=555&fit=max">
+<img src="https://hackster.imgix.net/uploads/attachments/1184978/image_WZzyxHB2wC.png?auto=compress%2Cformat&w=740&h=555&fit=max">
 
 Whenever the system detects an anomaly via heart rate temperature, movement or other it will send an alarm, notification and recommendations both to the user and the Doctor linked to the app. Here are some screenshots of the solution in our new webapp: iot.covital.com.mx
 
@@ -70,11 +70,11 @@ As we are using existing technology its scalability has already been proven as w
 
 From: https://3dinsider.com/wearable-statistics/#:~:text=According%20to%20a%20survey%20conducted,bands%20to%2025%20million%20units "From $29 million in sales in 2014, the sales of wearable devices have gone up to $172 million by 2018. By the end of 2018, an estimated 350 million wearable devices will have been in use worldwide. By the end of 2019, the global retail revenue from smart devices has reached $53.2 billion."
 
-<img src="">
+<img src="https://hackster.imgix.net/uploads/attachments/1174901/_FWApOAYyQR.blob?auto=compress%2Cformat&w=740&h=555&fit=max">
 
 And this is perfect for a developing country such as the one we are from, which is Mexico. The country lacks the infrastructure to do high level contact tracing, but the low cost of these devices and the fact that most of the population is already using a wearable band and a phone makes it a good choice. And yes for the moment we are one of the most-at-risk regions:
 
-<img src="">
+<img src="https://hackster.imgix.net/uploads/attachments/1174902/_6QkAL0MHbQ.blob?auto=compress%2Cformat&w=740&h=555&fit=max">
 
 Also, whenever countries go ahead and raise lockdowns their numbers will most likely go up as is the problem that we are having in Mexico. So a low cost, easy to use contact tracing solution like this one is probably one of the most viable solutions as you can detect quite a lot with just the heart rate and temperature.
 
