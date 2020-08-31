@@ -80,7 +80,7 @@ Also, whenever countries go ahead and raise lockdowns their numbers will most li
 
 # Step by Step instructions
 
-You can find them at the pryect hosted on Hackster: https://www.hackster.io/Edoliver/ardutrack-9a684f
+You can find them at the project hosted at Hackster: https://www.hackster.io/Edoliver/ardutrack-9a684f
 
 # Final Commentary
 We envision a future in which Healthcare is invisible and seamless, where you are getting the attention of experts but only engage if necessary. Using Machine learning and IoT to monitor symptoms to a condition with every process improving so it becomes error-free. With emphasis on the preventive side and with the patient as the point of care, YOU become the point of care.
